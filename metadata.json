@@ -1,0 +1,10 @@
+{
+  "name": "Remix إشعارات الفلاش وإضاءة الحواف المضيئة",
+  "description": "تطبيق ومحاكي لتشغيل إشعارات الفلاش المضيئة (فلاش الكاميرا وحواف الشاشة) للمكالمات والرسائل مع اختبار مباشر ودليل التفعيل للهواتف",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
